@@ -8,6 +8,6 @@ This is the graphical artwork material of the
 Copyright &amp; License
 -----------------------
 
-Copyright (c) 2014-2017 [GemstoneJS Project](http://github.com/gemstonejs/gemstone-project)<br/>
+Copyright &copy; 2014-2017 [GemstoneJS Project](http://github.com/gemstonejs/gemstone-project)<br/>
 Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
