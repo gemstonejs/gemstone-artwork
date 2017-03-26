@@ -5,8 +5,8 @@ Gemstone Artwork
 This is the graphical artwork material of the
 [Gemstone JavaScript Technology Stack](http://gemstonejs.com).
 
-License
--------
+Copyright &amp; License
+-----------------------
 
 Copyright (c) 2014-2017 Ralf S. Engelschall
 
