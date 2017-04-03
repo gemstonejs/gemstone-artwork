@@ -10,7 +10,11 @@ This is the graphical artwork material of the
 About
 -----
 
-This is the Gemstone logo in black and white background and in various formats.
+Here you can find the following Gemstone artwork:
+
+- The Gemstone color palette in ColorSchemer (source) and CSS format.
+- The Gemstone icon in Adobe Illustrator (source) and PNG format.
+- The Gemstone logo on black and white background in Adobe Illustrator (source) and SVG format.
 
 Copyright &amp; License
 -----------------------
