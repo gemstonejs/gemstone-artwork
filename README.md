@@ -1,16 +1,15 @@
 
+<img src="https://rawgit.com/gemstonejs/gemstone-artwork/master/gemstone-logo-white.svg" width="350" align="right" alt=""/>
+
 Gemstone Artwork
 ================
-
-This is the graphical artwork material of the
-[Gemstone JavaScript Technology Stack](http://gemstonejs.com).
-
-<img src="https://rawgit.com/gemstonejs/gemstone-artwork/master/gemstone-logo-white.svg" width="350" align="right" alt=""/>
 
 About
 -----
 
-Here you can find the following Gemstone artwork:
+This is the graphical artwork material of the
+[Gemstone JavaScript Technology Stack](http://gemstonejs.com).
+You can find the following particular artworks:
 
 - The Gemstone color palette in ColorSchemer (source) and CSS format.
 - The Gemstone icon in Adobe Illustrator (source) and PNG format.
