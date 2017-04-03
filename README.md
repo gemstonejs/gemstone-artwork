@@ -1,5 +1,5 @@
 
-<img src="https://rawgit.com/gemstonejs/gemstone-artwork/master/gemstone-logo-white.svg" width="350" align="right" alt=""/>
+<img src="https://rawgit.com/gemstonejs/gemstone-artwork/master/gemstone-logo-white.svg" width="300" align="right" alt=""/>
 
 Gemstone Artwork
 ================
